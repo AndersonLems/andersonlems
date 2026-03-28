@@ -1,6 +1,10 @@
 # 👩🏻‍💻 Anderson Lemos
 
+
 **`Desenvolvedor Full-Stack`**
+
+[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-Acessar-blue?style=for-the-badge)](https://portfolio-andersonlemos.vercel.app/portfolio)  
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anderson-lemos-013076264)
 
 Me chamo Anderson Lemos, tenho 24 anos e sou natural de Natal, Rio Grande do Norte. Sou acadêmico em Ciências e Tecnologia pela UFRN e Técnico em Mecatrônica pelo IFRN – Campus Parnamirim. Iniciei minha trajetória no chão de fábrica, com programação de CLPs e sistemas SCADA, e hoje atuo como Analista de Suporte Técnico N2 com foco no Sistema de Gestão de Provedores (SGP), atendendo ISPs em ambientes multivendor (Cisco, Nokia, Huawei, Mikrotik, entre outros). Tenho forte experiência em troubleshooting avançado de PPP/BNG, integração de servidores AAA (Radius), análise de protocolos de rede (PPP, BGP, Radius) e administração Linux (Debian). Também atuo na automação e integração de OLTs (ZTE, VSOL, Huawei) com o SGP e na configuração de proxies Nginx com SSL/TLS. Complemento minha atuação com conhecimentos em Docker, Node.js, TypeScript, Python e PostgreSQL, além de experiência em infraestrutura de redes com Mikrotik e soluções de backup com Acronis.
 
